@@ -33,7 +33,7 @@ As stated above, this segment of the rating is subjective and based solely upon 
 ### 1: No Sexual or Romantic Contact
 ### 2: Mild Non-sexual Kissing or Cuddling
 ### 3: Few Non-graphic Depictions of Intercourse
-### 4: Few Graphic Depictions of Secual Intercourse
+### 4: Few Graphic Depictions of Sexual Intercourse
 ### 5: Consistent, Graphic Depictions of Sexual Intercourse
 
 ## Violence

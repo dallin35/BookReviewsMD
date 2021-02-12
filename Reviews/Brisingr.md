@@ -20,6 +20,7 @@ Overall, I would feel comfortable recommending this book to a friend or family m
 | ---------- | ---------- |
 | 02/03/2021 | 02/12/2021 |
 
+
 ---
 
 ## Spoiler Summary

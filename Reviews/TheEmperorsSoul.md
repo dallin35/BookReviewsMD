@@ -1,28 +1,30 @@
-# Title
-Thought overview
-
----
-
-## Ratings
-
-Rating explanation and thoughts.
-
-Would I recommend this?
-
-| Stars | Content    | 
-| ----- | ---------- |
-|  |  | 
-
----
+# [Title]
 
 ## Reading Dates
-| Start      | Finish     |
+| Start | Finish |
 | ---------- | ---------- |
-| | |
+|  |  |
+
 ---
 
+## Rating and Review *****
+
+---
+
+## Content Y.L.S.V
+    
+
+### Recommendability: [Yes/No]
+    
+
+### Language: [1-5]
+    
+
+### Sex: [1-5]
+    
+
+### Violence: [1-5]
+    
+---
 ## Spoiler Summary
-*
-
-
-
+    *

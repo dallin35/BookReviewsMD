@@ -7,7 +7,7 @@ There are 3 content segments of the rating (Language, Sex, and Violence) and one
 ```
 Y.L3.S2.V4
 ```
-* The first letter corresponds to the "Recommendability" of the book. An "N" indicates that I would not recommend the book while a "Y" indicates that I would. This segment of the rating is subjectively based on my opinions.
+* The first letter corresponds to the "Recommendability" of the book. An "N" indicates that I would not recommend the book while a "Y" indicates that I would. An "M" indicates that I would recommend the book conditionally (Either that my recommendation would depend on the audience or that it would require content warnings) This segment of the rating is subjectively based on my opinions.
 * The second digit is the "Language" segment.
 * The Third corresponds to the sexual content of the book.
 * The final digit is associated with the violence portrayed in the book.

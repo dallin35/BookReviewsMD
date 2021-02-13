@@ -1,28 +1,32 @@
-# Title
-Thought overview
+# [Title]
 
----
-
-## Ratings
-
-Rating explanation and thoughts.
-
-Would I recommend this?
-
-| Stars | Content    | 
-| ----- | ---------- |
-|  |  | 
-
----
+![](../Covers/)
 
 ## Reading Dates
-| Start      | Finish     |
-| ---------- | ---------- |
-| | |
+| Start | Finish | Medium |
+| ---------- | ---------- | ----- |
+|  |  |  |
+
 ---
 
+## Rating and Review *****
+
+---
+
+## Content Y.L.S.V
+
+
+### Recommendability: [Yes/No]
+
+
+### Language: [1-5]
+
+
+### Sex: [1-5]
+
+
+### Violence: [1-5]
+
+---
 ## Spoiler Summary
 *
-
-
-

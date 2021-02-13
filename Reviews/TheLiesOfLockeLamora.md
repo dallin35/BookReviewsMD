@@ -11,19 +11,19 @@
 
 ---
 
-## Content Y.L.S.V
+## Content N.L5.S3.V5
     
 
-### Recommendability: [Yes/No]
+### Recommendability: No
+
+
+### Language: 5
     
 
-### Language: [1-5]
+### Sex: 3
     
 
-### Sex: [1-5]
-    
-
-### Violence: [1-5]
+### Violence: 5
     
 ---
 ## Spoiler Summary

@@ -32,6 +32,7 @@ If there was sexual content in this book, I'm fairly certain it was just referen
 
 ### Violence: 4
 This is a story about warrior nuns; there is a lot of violence.
+
 ---
 ## Spoiler Summary
 * Nona Grey is going to be hung with one of her friends for her role in the murder of a noble.

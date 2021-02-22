@@ -15,4 +15,5 @@ The main purposes for this project are as follows:
 * [x] Create "Faves" doc
 * [x] Update "Faves" doc. Order it if possible. Include all possible entries
 * [x] Make README more robust (include project purpose and overview)
+* [] Fill Star Rating Philosophy
 

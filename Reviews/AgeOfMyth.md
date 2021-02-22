@@ -1,12 +1,11 @@
-# [Title]
-By:
+# Age of Myth
 
-![](../Covers/)
+![Age of Myth Cover](../Covers/AgeOfMyth.jpg)
 
 ## Reading Dates
 | Start | Finish | Medium |
 | ---------- | ---------- | ----- |
-|  |  |  |
+| 02/18/2021 | 02/22/2021 | Audio |
 
 ---
 

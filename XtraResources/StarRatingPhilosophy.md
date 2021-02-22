@@ -14,5 +14,5 @@ Any book I rate 3 stars or above is a book I consider well-written. After this p
 
 A 3 star book is a well-written book that I personally didn't enjoy reading so much. Typically this will mean that the book is not to my taste
 
-## 4 Stars
+## 4 Stakrs
 A 4 star book is a well-written book that I enjoyed reading.

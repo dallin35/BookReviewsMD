@@ -1,12 +1,12 @@
-# [Title]
-By:
+# How to Be an Antiracist
+By: Ibram X. Kendi
 
-![](../Covers/)
+![How to Be an Antiracist Cover](../Covers/HowToBeAnAntiracist.jpg)
 
 ## Reading Dates
 | Start | Finish | Medium |
 | ---------- | ---------- | ----- |
-|  |  |  |
+| 2/22/2021 |  | Audio |
 
 ---
 

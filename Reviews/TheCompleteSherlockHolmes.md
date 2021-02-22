@@ -1,12 +1,12 @@
-# [Title]
-By:
+# The Complete Sherlock Holmes
+By: Sir Arthur Conan Doyle
 
-![](../Covers/)
+![The Complete Sherlock Holmes cover](../Covers/TheCompleteSherlockHolmes.jpg)
 
 ## Reading Dates
 | Start | Finish | Medium |
 | ---------- | ---------- | ----- |
-|  |  |  |
+| 02/11/2021 |  | Kindle |
 
 ---
 

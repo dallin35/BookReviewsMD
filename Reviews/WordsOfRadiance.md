@@ -1,9 +1,12 @@
-# [Title]
+# Words of Radiance
+By: Brandon Sanderson
+
+![Words of Radiance Cover](../Covers/WordsOfRadiance.jpg)
 
 ## Reading Dates
-| Start | Finish |
-| ---------- | ---------- |
-|  |  |
+| Start | Finish | Medium |
+| ---------- | ---------- | ------ |
+|  |  | Kindle |
 
 ---
 

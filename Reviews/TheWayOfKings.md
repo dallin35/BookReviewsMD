@@ -1,7 +1,7 @@
-# The Murder on the Links
-By: Agatha Christie
+# The Way of Kings
+By: Brandon Sanderson
 
-![The Murder on the Links Cover](../Covers/TheMurderOnTheLinks.jpg)
+![The Way of Kings cover](../Covers/TheWayOfKings.jpg)
 
 ## Reading Dates
 | Start | Finish | Medium |

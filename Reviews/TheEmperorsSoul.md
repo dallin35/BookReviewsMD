@@ -1,9 +1,12 @@
-# [Title]
+# The Emperor's Soul
+By: Brandon Sanderson
+
+![The Emperor's Soul Cover](../Covers/TheEmperorsSoul.jpg)
 
 ## Reading Dates
-| Start | Finish |
-| ---------- | ---------- |
-|  |  |
+| Start | Finish | Medium |
+| ---------- | ---------- | ----- |
+|  |  |  |
 
 ---
 

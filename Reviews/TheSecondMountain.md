@@ -1,9 +1,12 @@
-# [Title]
+# The Second Mountain
+By: David Brooks
+
+![The Second Mountain Cover](../Covers/TheSecondMountain.jpg)
 
 ## Reading Dates
-| Start | Finish |
-| ---------- | ---------- |
-|  |  |
+| Start | Finish | Medium |
+| ---------- | ---------- | ----- |
+|  |  |  |
 
 ---
 

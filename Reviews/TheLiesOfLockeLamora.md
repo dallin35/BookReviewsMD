@@ -1,9 +1,12 @@
-# [Title]
+# The Lies of Locke Lamora
+By: Scott Lynch
+
+![The Lies of Locke Lamora](../Covers/TheLiesOfLockeLamora.jpg)
 
 ## Reading Dates
-| Start | Finish |
-| ---------- | ---------- |
-|  |  |
+| Start | Finish | Medium |
+| ---------- | ---------- | ----- |
+|  |  |  |
 
 ---
 

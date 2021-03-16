@@ -1,9 +1,12 @@
-# [Title]
+# Oathbringer
+
+![Oathbringer Cover](../Covers/Oathbringer.jpg)
 
 ## Reading Dates
 | Start | Finish |
 | ---------- | ---------- |
-|  |  |
+| 11/18/2017 | 11/28/2017 |
+| 10/10/2020 | 10/15/2020 |
 
 ---
 
@@ -11,20 +14,20 @@
 
 ---
 
-## Content Y.L.S.V
+## Content Y.L2.S2.V3
     
 
-### Recommendability: [Yes/No]
+### Recommendability: 2
     
 
-### Language: [1-5]
+### Language: 2
     
 
-### Sex: [1-5]
+### Sex: 2
     
 
-### Violence: [1-5]
+### Violence: 3
     
 ---
 ## Spoiler Summary
-    *
+*

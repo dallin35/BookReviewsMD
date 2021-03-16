@@ -1,4 +1,5 @@
 # Age of Myth
+By: Michael J. Sullivan
 
 ![Age of Myth Cover](../Covers/AgeOfMyth.jpg)
 
